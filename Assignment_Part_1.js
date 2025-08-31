@@ -1,6 +1,6 @@
 // Part 1: Variables, alert, prompt, confirm
 // 1. Declare a variable name and assign your name to it. Show it using alert().
-var name = 'Vineeth V';
+var name = 'Sruthi';
 alert(name);
 
 // 2. Ask the user for their age using prompt(). Store it in a variable and display it back using alert().
